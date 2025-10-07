@@ -14,6 +14,8 @@ title: Common Error
 
 ### 422 Unprocessable Entity
 
+### 429 Too Many Requests
+
 ### 500 Internal Server Error
 
 ### 502 Bad Gateway
