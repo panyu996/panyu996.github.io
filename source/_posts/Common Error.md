@@ -14,13 +14,13 @@ title: Common Error
 
 ### 422 Unprocessable Entity
 
-### 429 Too Many Requests
+### 429 Too Many Requests  (Backpressure)
 
 ### 500 Internal Server Error
 
 ### 502 Bad Gateway
 
-### 503 Service Unavailable
+### 503 Service Unavailable  (Circuit Breaker)
 
 ### 504 Gateway Timeout
 
