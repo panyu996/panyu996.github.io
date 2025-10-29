@@ -4,9 +4,9 @@ title: Common Error
 
 ### 400 BAD REQUEST
 
-### 401 Unauthorized  (authentication credential is missing or incorrect)
+### 401 Unauthorized (authentication credential is missing or incorrect)
 
-### 403 Forbidden  (authenticated but lacks permissions)
+### 403 Forbidden (authenticated but lacks permissions)
 
 ### 404 Not Found
 
@@ -14,13 +14,15 @@ title: Common Error
 
 ### 422 Unprocessable Entity
 
-### 429 Too Many Requests  (Backpressure)
+### 429 Too Many Requests (Backpressure)
+
+### 444 No Response (unofficial)
 
 ### 500 Internal Server Error
 
 ### 502 Bad Gateway
 
-### 503 Service Unavailable  (Circuit Breaker)
+### 503 Service Unavailable (Circuit Breaker)
 
 ### 504 Gateway Timeout
 
