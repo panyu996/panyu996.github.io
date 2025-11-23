@@ -10,6 +10,8 @@ title: Common Error
 
 ### 404 Not Found
 
+### 405 Method Not Allowed
+
 ### 409 Conflict
 
 ### 422 Unprocessable Entity
@@ -26,10 +28,14 @@ title: Common Error
 
 ### 504 Gateway Timeout
 
-##### P.S. redirection
+## P.S. redirection
 
 ### 301 Moved Permanently
 
 ### 302 Found
 
 ### 307 Temporary Redirect
+
+## P.S. non-committal
+
+### 202 Accepted
