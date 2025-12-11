@@ -39,3 +39,5 @@ title: Common Error
 ## P.S. non-committal
 
 ### 202 Accepted
+
+### 204 No Content (Preflight)
