@@ -28,6 +28,8 @@ title: Common Error
 
 ### 504 Gateway Timeout
 
+### 530 Origin DNS Error (Cloudflare)
+
 ## P.S. redirection
 
 ### 301 Moved Permanently
