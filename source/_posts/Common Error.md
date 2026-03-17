@@ -36,6 +36,8 @@ title: Common Error
 
 ### 302 Found
 
+### 304 Not Modified
+
 ### 307 Temporary Redirect
 
 ## P.S. non-committal
