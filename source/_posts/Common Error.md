@@ -28,6 +28,8 @@ title: Common Error
 
 ### 504 Gateway Timeout
 
+### 529 The Service Is Overloaded
+
 ### 530 Origin DNS Error (Cloudflare)
 
 ## P.S. redirection
