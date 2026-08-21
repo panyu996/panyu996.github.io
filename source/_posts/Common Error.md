@@ -20,6 +20,8 @@ title: Common Error
 
 ### 444 No Response (unofficial)
 
+### 499 Client Closed Request (nginx)
+
 ### 500 Internal Server Error
 
 ### 502 Bad Gateway
